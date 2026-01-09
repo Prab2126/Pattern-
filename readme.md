@@ -1,0 +1,7 @@
+# This Pattern i practices
+
+![Pattern for practice](https://media.geeksforgeeks.org/wp-content/uploads/20240710105710/pattern-program-in-c.webp)
+
+---
+
+Acctually i partice all this pattern 1 month before but currently i publicing this.
